@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.52bb36ef.css",
+    "main.js": "/static/js/main.b52b433e.js",
+    "static/media/emblem-dark.png": "/static/media/emblem-dark.8c1665175ea11917cbea.png",
+    "static/media/BestDoctor-1.jpeg": "/static/media/BestDoctor-1.713d880cce1ab95d1ad2.jpeg",
+    "static/media/Dengue-1.png": "/static/media/Dengue-1.183a60ed9b4ae9bc208b.png",
+    "static/media/CausesDengue.jpeg": "/static/media/CausesDengue.84c81730ef333563f021.jpeg",
+    "static/media/HeartDiseases.jpeg": "/static/media/HeartDiseases.b36c277f955c594d0c26.jpeg",
+    "static/media/BestDoctor-4.jpeg": "/static/media/BestDoctor-4.0bf23b6ba90388169eca.jpeg",
+    "static/media/BestDoctor-5.jpeg": "/static/media/BestDoctor-5.0db3f0a34c82165c6411.jpeg",
+    "static/media/BestDoctor-2.jpeg": "/static/media/BestDoctor-2.ab58f2ce328df0e8737f.jpeg",
+    "static/media/Causesmaleria.jpeg": "/static/media/Causesmaleria.6840e445555454514704.jpeg",
+    "static/media/BestDoctor-3.jpeg": "/static/media/BestDoctor-3.ea83f708a5ec86853925.jpeg",
+    "static/media/CausesTyphoid.jpeg": "/static/media/CausesTyphoid.aff8011b61262525645f.jpeg",
+    "index.html": "/index.html",
+    "main.52bb36ef.css.map": "/static/css/main.52bb36ef.css.map",
+    "main.b52b433e.js.map": "/static/js/main.b52b433e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52bb36ef.css",
+    "static/js/main.b52b433e.js"
+  ]
+}
